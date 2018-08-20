@@ -1,12 +1,4 @@
-# noise_analysis run from DCC-NOISE-001003 at Mon Apr  1 01:00:00 2013
-# Monitoring unit located at 53.342609N 6.340721W
-# logfile   = /home/root/noise_analysis.log
-# cfg_dir   = /home/root/config
-# outputdir = /home/root/noise
-# Sensitivity = -26.271103
-# Gain = 1.000000
-# Time should be in local format (i.e. daylight savings time)
-# dd/mm/yyyy hh:mm:ss, A Leq,   A L10,   A L95,   C Leq,   C L10,   C L95
+time,loc_1,loc_2,loc_3,loc_4,loc_5,loc_6
 01/04/2013 01:05:00,   54.66,   59.59,   43.60,   56.44,   60.81,   46.85
 01/04/2013 01:10:00,   52.60,   58.03,   43.37,   55.42,   59.91,   47.91
 01/04/2013 01:15:00,   53.25,   58.36,   43.52,   57.66,   62.55,   49.24
